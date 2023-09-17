@@ -1,4 +1,4 @@
-#ICP smart contract example
+# ICP smart contract example
 
 This is example of project on the Internet Computer Protocol (ICP) platform using TypeScript. [Source](https://dacade.org/communities/icp)
 
