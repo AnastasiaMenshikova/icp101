@@ -1,3 +1,5 @@
+#ICP smart contract example
+
 This is example of project on the Internet Computer Protocol (ICP) platform using TypeScript. [Source](https://dacade.org/communities/icp)
 
 [How to setup and interact with Smart Contracts on the Internet Computer](https://dacade.org/communities/icp/courses/typescript-smart-contract-101/learning-modules/b14741ea-ee33-43a4-a742-9cdc0a6f0d1c)
